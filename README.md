@@ -1,4 +1,4 @@
-<h3 align="center">Android Developer - Senior</h3>
+<h3 align="center">Android Developer</h3>
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/lucas-mendes-298937142/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;

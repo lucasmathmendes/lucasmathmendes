@@ -1,7 +1,7 @@
 <h3 align="center">Android Developer</h3>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/lucas-mendes-298937142/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/lucas-mendes-dev/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>&nbsp;&nbsp;
 </p>
 
 <hr>
@@ -9,7 +9,7 @@
 ``` kotlin
 data class Dev (
     val name: String = "Lucas Mendes",
-    var age: Int = 25,
+    var age: Int = 26,
     var languages: Array<String> = arrayOf("Kotlin", "Java"),
     var architecture: Array<String> = arrayOf("CA","MVVM", "MVP", "MVC"),
     var VCS: Array<String> = arrayOf("GIT", "GitHub", "GitLab"),
